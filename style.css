@@ -1,0 +1,92 @@
+[class*="navbar"]{
+    background-color:rgb(1, 37, 1);
+}
+
+[class*="navbar-brand"]{
+    color:rgb(168, 166, 166);
+    font-family:Apple Chancery, cursive ;
+}
+
+[class*="navbar-brand"]:hover{
+    color: #fff;
+}
+.tt3{
+    background-color:black;
+    color:#fff;
+}
+.serv{
+    background-color:rgb(1, 37, 1);
+    color:#fff;
+    font-size: 18px;
+}
+.serv1{
+    background-color:rgb(1, 37, 1);
+    color:#fff;
+    
+}
+.serv1:hover{
+    background-color:rgb(47, 160, 47);
+    color:#000;
+    
+}
+.tt3:hover{
+    background-color: #fff;
+    color:rgb(1, 37, 1);
+}
+
+[class*="border-top"]{
+    background-color: rgb(1, 37, 1);
+}
+[class*="navbar-toggler-icon"]:hover{
+    background-color:rgb(1, 37, 1);
+}
+[class*="hello"]{
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.20);
+    transition: transform 0.3s ease-in-out;
+    flex: 0 0 calc(30% - 40px);
+    box-sizing: border-box;
+}
+[class*="checkmark"]{
+    box-shadow: 0 4px 8px rgba(43, 42, 42, 0.2);
+    transition: transform 0.3s ease-in-out;
+    flex: 0 0 calc(30% - 40px);
+    box-sizing: border-box;
+    background-color: #eeeeee;
+    border-radius: 30px;
+}
+[class*="titi"]{
+    font-family:Apple Chancery, cursive ;
+}
+[class*="img-ff"]{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border: solid 2px white;
+}
+[class*="titi3"]{
+    font-family:Apple Chancery, cursive ;
+    font-size:x-large;
+}
+[class*="titi1"]{
+    font-family:Apple Chancery, cursive ;
+    color: white;
+    background-color: #0f2a3d;
+}
+[class*="tti"]{
+    background-color:  rgba(0,0,0,.4);
+    
+}
+[class*="titi1"]:hover{
+    font-family:Apple Chancery, cursive ;
+    color: white;
+    background-color: #0f2a3d;
+}
+[class*="gama"]{
+    min-height: 85vh;
+    background-image: linear-gradient(to left,rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url(../ChalaPam/math-1500720_1920.jpg);
+    background-size: cover;
+    background-position: center;
+}
+[class*="sss"]{
+    background-color: rgb(240, 240, 240);
+}
